@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebenezerimaleko&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezerimaleko" /> </p>
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **Flutter**
 
