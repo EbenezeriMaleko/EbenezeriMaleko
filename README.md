@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ebenezeri Maleko</h1>
-<h3 align="center">A passionate frontend developer from Tanzania</h3>
+<h3 align="center">A passionate developer from Tanzania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebenezerimaleko&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezerimaleko" /> </p>
 
