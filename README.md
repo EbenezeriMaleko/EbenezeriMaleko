@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebenezerimaleko&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezerimaleko" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebenezerimaleko" alt="ebenezerimaleko" /></a> </p>
-
 - 🔭 I’m currently working on **ISP APPLICATION DEVELOPMENT**
 
 - 🌱 I’m currently learning **Cybersecurity, java**
