@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **malekoebenezeri@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hDajxJ8n23GkciJyMQb3vtB5g5gy64pj/view?usp=drivesdk](https://drive.google.com/file/d/1hDajxJ8n23GkciJyMQb3vtB5g5gy64pj/view?usp=drivesdk)
-
 - ⚡ Fun fact **I am eager to learn**
 
 <h3 align="left">Connect with me:</h3>
